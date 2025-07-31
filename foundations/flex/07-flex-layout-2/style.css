@@ -69,7 +69,7 @@ a {
 .cards {
   display: flex;  
   flex-wrap: wrap;
-  gap: 35px;
+  gap: 32px;
   padding: 48px;
   text-align:left;
   
@@ -85,7 +85,7 @@ a {
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
   min-width: min-content;
-  padding: 2%;
+  padding: 16px;
   
 }
 
