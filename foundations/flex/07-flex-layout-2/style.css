@@ -51,9 +51,7 @@ a {
 
   display: flex;
   flex: 1;
-  
 }
-
 
 .cards {
   display: flex;  
@@ -75,6 +73,7 @@ a {
   padding: 16px;
   
 }
+
 
 .footer {
   display: flex;
