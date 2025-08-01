@@ -21,9 +21,6 @@ body {
 }
 
 
-
-
-
 .sidebar {
   display: flex;
   flex-direction: column;
@@ -53,15 +50,10 @@ a {
   
 }
 
-
-
 .flex-container {
 
   display: flex;
   flex: 1;
-  
-  
-  
   
 }
 
