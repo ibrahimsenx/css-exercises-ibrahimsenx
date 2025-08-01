@@ -4,7 +4,6 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  
 }
 
 .header {
@@ -17,7 +16,6 @@ body {
   font-size: 32px;
   font-weight: 900;
   padding-left: 16px;
-  
 }
 
 
@@ -28,8 +26,7 @@ body {
   width: 300px;
   background: royalblue;
   box-sizing: border-box;
-  font-size: 24px;
-  
+  font-size: 24px; 
 }
 
 ul {
@@ -64,8 +61,6 @@ a {
   gap: 32px;
   padding: 48px;
   text-align: left;
-  
-  
 }
 
 .cards div {
@@ -89,5 +84,4 @@ a {
   color: darkmagenta;
   align-items: center;
 
-  
 }
